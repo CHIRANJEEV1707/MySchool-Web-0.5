@@ -1,0 +1,29 @@
+*{
+    border: solid;
+    border-color: yellow;
+    background-color:coral;
+}
+.profile{
+    background-color: aqua;
+    color: midnightblue;
+}
+.content{
+    background-color: aqua;
+    color:midnightblue;  
+}
+.events{
+background-color: greenyellow;
+color: midnightblue;
+}
+.program{
+    background-color: greenyellow;
+    color: midnightblue;
+}
+.about{
+background-color: springgreen;
+color: midnightblue;
+}
+.info{
+    background-color: yellowgreen;
+    color: midnightblue;
+}
